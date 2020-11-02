@@ -9,3 +9,6 @@
 5. check your ip: `ifconfig`
 6. from host machine: `ssh root@<ip_from_step_5>`
 7. 👌🏼👌🏼👌🏼
+
+## groups and users
+[how to manage users and groups](https://www.linux.com/topic/desktop/how-manage-users-groups-linux/)
